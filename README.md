@@ -1,4 +1,4 @@
-This code is a classification model for fraudulent transactions using bank cards  
+**This code is a classification model for fraudulent transactions using bank cards**  
 
 For download you need complete:  
     
