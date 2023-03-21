@@ -8,7 +8,7 @@ For download repo you need complete:
     
 So... the dataset is located at https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
 
-You can unpack the file and put it in the directory with the code using:
+You can unpack the file and put it in the code directory with the code using:
 
     mv archive.csv /path-to-code/antifraud-baks-cards/archive.csv
     cp archive.csv credicard.csv
