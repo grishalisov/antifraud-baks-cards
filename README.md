@@ -10,6 +10,6 @@ So... the dataset is located at https://www.kaggle.com/datasets/mlg-ulb/creditca
 
 You can unpack the file and put it in the code directory with the code using:
 
-    mv archive.csv /path-to-code/antifraud-baks-cards/archive.csv
+    mv archive.csv /path-to-code/antifraud-baks-cards/archive.csv && cd /path-to-code/antifraud-baks-cards
     cp archive.csv credicard.csv
     
